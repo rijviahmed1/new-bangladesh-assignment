@@ -2,9 +2,11 @@
 body{
     background-color: #F5F5F5;
     font-family: "Fira Sans", serif;
+    
+}
+main{
     margin: 50px 150px;
 }
-
 .btn-primary{
     padding: 15px 30px;
     color: #FFFFFF;
@@ -149,4 +151,13 @@ body{
 }
 .subscribe-section a{
     display: inline;
+}
+footer{
+    padding: 50px;
+    background-color: #FFFFFF;
+    justify-content: center;
+    text-align: center;
+}
+hr{
+    width: 70%;
 }
