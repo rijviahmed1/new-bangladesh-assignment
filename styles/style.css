@@ -135,3 +135,18 @@ body{
     margin-top: 10px;
     display: block;
 }
+.subscribe-section{
+    margin-top: 50px;
+    text-align: center;
+    background-color: #C6E4D6;
+    padding: 50px 0px;
+    border-radius: 10px;
+}
+.subscribe-section input{
+    width: 60%;
+    padding: 10px 5px;
+    margin: auto;
+}
+.subscribe-section a{
+    display: inline;
+}
