@@ -43,7 +43,7 @@ body{
     /* margin: 50px 150px; */
 }
 .headline{
-    font-size: 40px;
+    font-size: 36px;
     font-weight: bold;
 }
 .card{
@@ -101,4 +101,37 @@ body{
     font-size: 25px;
     font-weight: bold;
     color: #000000d0;
+}
+.donate{
+    text-align: center;
+}
+.taka-div{
+    display: flex;
+    justify-content: space-around;
+}
+.tk{
+    background-color: #FFFFFF;
+    padding: 30px 35px;
+    border-radius: 10px;
+}
+#tk200{
+    background-color: #C6E4D6;
+}
+.donate{
+    /* display: flex; */
+    /* justify-content: center; */
+    
+    /* align-items: center; */
+}
+.donate-input{
+    width: 80%;
+    margin: auto;
+    padding: 10px 5px;
+    display: block;
+    text-align: center;
+}
+.donate-btn{
+    
+    margin-top: 10px;
+    display: block;
 }
