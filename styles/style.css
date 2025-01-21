@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    background-color: #F5F5F5;
+    font-family: "Fira Sans", serif;
+    margin: 50px 150px;
+}
+
+.btn-primary{
+    padding: 15px 30px;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 600px;
+    background-color: #006A50;
+    border: none;
+    border-radius: 10px;
+}
+.describtion{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #0e0e0ea1;
+}
+
+.hero{
+    /* margin: 50px 150px; */
+    padding: 80px;
+    gap: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #C6E4D6;
+    border-radius: 10px;
+
+}
+.sub-heading{
+    color: #0e0e0e7c;
+    font-size: 20px;
+}
+.hero-heading{
+    font-size: 50px;
+    font-weight: bold;
+}
+.the-vision-of-future{
+    /* margin: 50px 150px; */
+}
+.headline{
+    font-size: 40px;
+    font-weight: bold;
+}
+.card{
+    padding: 30px;
+    border-radius: 10px;
+}
+.card-heading{
+    color: #000000d0;
+    font-size: 18px;
+    font-weight: bold;
+}
+.cards{   
+    display: flex;
+    gap: 30px;
+}
+.card-bg-1{
+    background-color: #83a2cd45;  
+}
+#blue-btn{
+    background-color: #5490F5;
+}
+.card-bg-2{
+    background-color: #C6E4D6;  
+}
+.card-bg-3{
+    background-color: #F7EBCF;   
+}
+#yellow-btn{
+    background-color: #FFC239;
+}
+.yunus-section{
+    background-color: #FFFFFF;
+    
+    margin: 50px 0;
+    padding: 40px 20px;
+    border-radius: 20px;
+}
+.yunus-div{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+}
