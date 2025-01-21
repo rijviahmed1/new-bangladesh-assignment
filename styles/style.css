@@ -146,11 +146,22 @@ main{
 }
 .subscribe-section input{
     width: 60%;
-    padding: 10px 5px;
-    margin: auto;
+    padding: 15px 5px;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+    /* margin: auto; */
+}
+#subscribe-btn{
+    border-radius: 0 10px 10px 0;
 }
 .subscribe-section a{
-    display: inline;
+    margin-top: 0;
+    /* display: inline; */
+}
+.subscribe-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 footer{
     padding: 50px;
