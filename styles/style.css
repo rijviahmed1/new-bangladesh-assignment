@@ -126,11 +126,13 @@ main{
     /* align-items: center; */
 }
 .donate-input{
-    width: 80%;
+    width: 90%;
     margin: auto;
     padding: 10px 5px;
     display: block;
     text-align: center;
+    border: none;
+    border-radius: 5px;
 }
 .donate-btn{
     
